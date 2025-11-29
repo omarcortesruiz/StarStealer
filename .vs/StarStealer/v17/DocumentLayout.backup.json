@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\work\\MaalGit\\Umbral-Stealer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E823C15A-DDAF-4D1E-A6EB-80645D1EE735}|Star.payload\\Star.payload.csproj|c:\\work\\maalgit\\umbral-stealer\\star.payload\\components\\antivm\\detector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E823C15A-DDAF-4D1E-A6EB-80645D1EE735}|Star.payload\\Star.payload.csproj|solutionrelative:star.payload\\components\\antivm\\detector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E823C15A-DDAF-4D1E-A6EB-80645D1EE735}|Star.payload\\Star.payload.csproj|c:\\work\\maalgit\\umbral-stealer\\star.payload\\components\\messenger\\telegram\\sessionstealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E823C15A-DDAF-4D1E-A6EB-80645D1EE735}|Star.payload\\Star.payload.csproj|solutionrelative:star.payload\\components\\messenger\\telegram\\sessionstealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E823C15A-DDAF-4D1E-A6EB-80645D1EE735}|Star.payload\\Star.payload.csproj|c:\\work\\maalgit\\umbral-stealer\\star.payload\\components\\helpers\\simplejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E823C15A-DDAF-4D1E-A6EB-80645D1EE735}|Star.payload\\Star.payload.csproj|solutionrelative:star.payload\\components\\helpers\\simplejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E823C15A-DDAF-4D1E-A6EB-80645D1EE735}|Star.payload\\Star.payload.csproj|c:\\work\\maalgit\\umbral-stealer\\star.payload\\components\\browsers\\ur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E823C15A-DDAF-4D1E-A6EB-80645D1EE735}|Star.payload\\Star.payload.csproj|solutionrelative:star.payload\\components\\browsers\\ur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionStealer.cs",
+              "DocumentMoniker": "C:\\work\\MaalGit\\Umbral-Stealer\\Star.payload\\Components\\Messenger\\Telegram\\SessionStealer.cs",
+              "RelativeDocumentMoniker": "Star.payload\\Components\\Messenger\\Telegram\\SessionStealer.cs",
+              "ToolTip": "C:\\work\\MaalGit\\Umbral-Stealer\\Star.payload\\Components\\Messenger\\Telegram\\SessionStealer.cs",
+              "RelativeToolTip": "Star.payload\\Components\\Messenger\\Telegram\\SessionStealer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T11:09:45.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleJson.cs",
+              "DocumentMoniker": "C:\\work\\MaalGit\\Umbral-Stealer\\Star.payload\\Components\\Helpers\\SimpleJson.cs",
+              "RelativeDocumentMoniker": "Star.payload\\Components\\Helpers\\SimpleJson.cs",
+              "ToolTip": "C:\\work\\MaalGit\\Umbral-Stealer\\Star.payload\\Components\\Helpers\\SimpleJson.cs",
+              "RelativeToolTip": "Star.payload\\Components\\Helpers\\SimpleJson.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T11:09:25.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UR.cs",
+              "DocumentMoniker": "C:\\work\\MaalGit\\Umbral-Stealer\\Star.payload\\Components\\Browsers\\UR.cs",
+              "RelativeDocumentMoniker": "Star.payload\\Components\\Browsers\\UR.cs",
+              "ToolTip": "C:\\work\\MaalGit\\Umbral-Stealer\\Star.payload\\Components\\Browsers\\UR.cs",
+              "RelativeToolTip": "Star.payload\\Components\\Browsers\\UR.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T11:09:14.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detector.cs",
+              "DocumentMoniker": "C:\\work\\MaalGit\\Umbral-Stealer\\Star.payload\\Components\\AntiVM\\Detector.cs",
+              "RelativeDocumentMoniker": "Star.payload\\Components\\AntiVM\\Detector.cs",
+              "ToolTip": "C:\\work\\MaalGit\\Umbral-Stealer\\Star.payload\\Components\\AntiVM\\Detector.cs",
+              "RelativeToolTip": "Star.payload\\Components\\AntiVM\\Detector.cs",
+              "ViewState": "AgIAAGkBAAAAAAAAAAAQwGIBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T11:01:20.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

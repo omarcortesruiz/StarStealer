@@ -1,0 +1,7 @@
+C:\work\MaalGit\Umbral-Stealer\Star.payload\bin\Debug\Star.payload.exe.config
+C:\work\MaalGit\Umbral-Stealer\Star.payload\bin\Debug\Star.payload.exe
+C:\work\MaalGit\Umbral-Stealer\Star.payload\bin\Debug\Star.payload.pdb
+C:\work\MaalGit\Umbral-Stealer\Star.payload\obj\Debug\Star.payload.csproj.AssemblyReference.cache
+C:\work\MaalGit\Umbral-Stealer\Star.payload\obj\Debug\Star.payload.csproj.CoreCompileInputs.cache
+C:\work\MaalGit\Umbral-Stealer\Star.payload\obj\Debug\Star.payload.exe
+C:\work\MaalGit\Umbral-Stealer\Star.payload\obj\Debug\Star.payload.pdb
